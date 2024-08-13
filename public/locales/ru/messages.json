@@ -1,0 +1,8 @@
+{
+  "approvalTimerP2PLabel": {
+    "message": "Approval time $1"
+  },
+  "approvalTimerP2PInfo": {
+    "message": "If you do not confirm the exchange in the time, it will be automatically cancelled"
+  }
+}
